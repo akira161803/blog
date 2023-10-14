@@ -48,3 +48,5 @@
     }
 </script>
 @endsection
+
+$test;
